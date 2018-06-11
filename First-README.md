@@ -6,7 +6,9 @@
 5. 在修改配置项时不自动推送客户端， 增加一个发布按钮，在所有配置修改完成并确认后再点击该按钮推送变更到客户端。
 
 #### 部署和使用指南
-https://github.com/melin/super-diamond
+- 原作者 https://github.com/melin/super-diamond
+- 如果上面原作者无法读取，读取 https://github.com/billzhifeng/super-diamond/blob/master/%E5%8E%9F%E4%BD%9C%E8%80%85.md
+- 安装和部署 https://github.com/billzhifeng/super-diamond/blob/master/%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E.md
 
 
 
@@ -17,7 +19,7 @@ https://github.com/melin/super-diamond
 **请求地址(POST)：**
 
 ```
-/tuhu_configuration_center/edit
+/configuration_center/edit
 ```
 
 **请求报文示例：**
